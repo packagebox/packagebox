@@ -1,10 +1,13 @@
 <?php
 
-/**
- * Laravel - A PHP Framework For Web Artisans
+/*
+ * This file is part of https://github.com/packagebox/packagebox
  *
- * @package  Laravel
- * @author   Taylor Otwell <taylor@laravel.com>
+ *  (c) Scott Wilcox <scott@dor.ky>
+ *
+ *  For the full copyright and license information, please view the LICENSE
+ *  file that was distributed with this source code.
+ *
  */
 
 define('LARAVEL_START', microtime(true));
